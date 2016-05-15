@@ -1,0 +1,27 @@
+        '3.19  suma 10 numeros introducidos por teclado
+
+        Dim a As Integer
+        Dim s As Integer
+        Dim d As Integer
+        Dim f As Integer
+        Dim g As Integer
+        Dim h As Integer
+        Dim j As Integer
+        Dim k As Integer
+        Dim l As Integer
+        Dim z As Integer
+
+        a = InputBox("numero 1")
+        s = InputBox("numero 2")
+        d = InputBox("numero 3")
+        f = InputBox("numero 4")
+        g = InputBox("numero 5")
+        h = InputBox("numero 6")
+        j = InputBox("numero 7")
+        k = InputBox("numero 8")
+        l = InputBox("numero 9")
+        z = InputBox("numero 10")
+        MsgBox("El Resultado de la Suma es: " & a + s + d + f + g + h + j + k + l + z)
+
+
+'esto va dentro de un boton

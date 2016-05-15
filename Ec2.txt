@@ -1,0 +1,19 @@
+3.12 se desea calcular independientemente los numeros pares e impares comprendidos entre 1 y 200
+
+3.13 leer una serie de numeros distintos de cero y obtener el numero mayor. como resultado debe ser visualizado el numero mayor y un mensaje de indicacion
+
+3.14 calcular y visualizar la suma y el producto de los pares e impares comprendidos entre 20 y 400, ambos inclsive
+
+3.15 leer 500 numeros enteros y obtener cuales son positivos
+
+3.16 Se trata de escribir el algoritmo que permita emitir la factura correspondiente a una compra de un articulo determinado del que se adquieren una o varias unidades. el IVA a aplicar es del 15 por 100 y si el periodo bruto (precio mas Iva) es mayor de 50000 pesetas. se debe realizar el descuento del 5 por 100
+3.17 Calcular la suma de los cuadrados de los cien primeros numeros naturales
+
+3.18 suma los numeros pares del 2 al 100 e imprimir el valor
+
+3.19  suma 10 numeros introducidos por teclado
+
+3.20 calcular la media de los cincuenta numeros e imprimir su resultado
+
+3.21 calcular los N primeros multiplos de 4(inclusive), donde n es un valor por teclado.
+

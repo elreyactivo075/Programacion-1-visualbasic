@@ -1,0 +1,12 @@
+        'leer 500 numeros enteros y obtener cuales son positivos
+        For Contador = 1 To 500 Step 1
+            'Dim Contador As String
+            'Contador = 0
+
+            If Contador > -1 Then
+                MessageBox.Show(" este numero es pocitivo " & Contador)
+            End If
+
+        Next
+
+'esto va dentro de un boton

@@ -1,0 +1,15 @@
+        '3.17 Calcular la suma de los cuadrados de los cien primeros numeros naturales
+        Dim cuadrado As String
+        Dim cua As String
+        For suma = 1 To 100
+            'MessageBox.Show(suma)
+            cuadrado = suma * suma
+            cua = cuadrado + cuadrado
+
+            'MessageBox.Show("el cuadrado que se va a calc es: " & cuadrado)
+            MessageBox.Show("la suma de los 100 primeros " & suma & " ^ " & suma & " = " & cuadrado & " con la suma de los cuadrados es: " & cua)
+
+        Next
+
+
+'esto va dentro de un boton

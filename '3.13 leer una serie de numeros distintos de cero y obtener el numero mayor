@@ -1,0 +1,19 @@
+        '3.13 leer una serie de numeros distintos de cero y obtener el numero mayor. como resultado debe ser visualizado el numero mayor y un mensaje de indicacion
+        Dim a As Integer
+        Dim b As Integer
+
+        a = InputBox(" Introduce el valor de a")
+        b = InputBox(" Introduce el valor de b")
+
+        If a > b Then
+            MessageBox.Show(" a = " & a & " y es mayor que b = " & b)
+
+        ElseIf b > a Then
+            MessageBox.Show(" b = " & b & "y es mayor que a = " & a)
+
+        Else : a = b
+            MessageBox.Show(" a = " & a & " son iguales " & " b = " & b)
+        End If
+
+
+'esto va dentro de un boton

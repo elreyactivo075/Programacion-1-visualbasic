@@ -1,0 +1,6 @@
+        'suma los numeros pares del 2 al 100 e imprimir el valor
+        For Var = 2 To 100 Step 2
+            MsgBox(Var)
+        Next
+
+'esto va dentro de un boton
