@@ -3,4 +3,4 @@
             MsgBox(Var)
         Next
 
-'esto va dentro de un boton
+'esto va dentro de un boton.
